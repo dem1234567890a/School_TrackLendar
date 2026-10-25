@@ -4,7 +4,7 @@ const STU = USERS.filter(u => u.role === 'student');
 const ROLE = { ... };
 const LBL = { ... };
 const D = 864e5;
-const K = 'schoolyear_v1';
+const K = 'School_TrackLendar';
 
 // 2. Utility functions
 const $ = ...;
